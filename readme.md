@@ -9,27 +9,27 @@
 # 🇺🇸 English
 <a id="english"></a>
 
-## IT Leadership & Public-Sector Digital Ecosystems
+## IT Project Coordination & Public-Sector Digital Ecosystems
 
-IT leader designing and evolving resilient digital ecosystems for public-sector institutions.  
-Focused on governance, team leadership, scalable architectures and data-driven decision systems.
+IT Project Coordinator focused on designing and evolving resilient digital ecosystems for public-sector institutions.  
+Dedicated to governance, technical team coordination, scalable architectures and data-driven decision systems.
 
 ### About
 
-I operate at the intersection of public-sector IT governance, institutional strategy and backend architecture.
+I work at the intersection of public-sector IT governance, institutional strategy and backend architecture.
 
-My work centers on leading technical teams and structuring sustainable digital infrastructures that enable:
+My role involves coordinating multidisciplinary technical teams and structuring sustainable digital infrastructures that enable:
 
 - Interoperable data platforms  
 - Automation-driven institutional workflows  
-- Reliable, auditable and transparent systems  
+- Reliable and auditable systems  
 - Decision-support environments  
 - Long-term digital governance models  
 
 ### Core Areas
 
 - IT Governance & Institutional Digital Strategy  
-- Technical Team Leadership & Delivery Coordination  
+- Project Coordination & Technical Team Leadership  
 - Backend Architecture & Systems Integration  
 - Data Platforms & Interoperability  
 - Automation & Public Digital Infrastructure  
@@ -37,7 +37,7 @@ My work centers on leading technical teams and structuring sustainable digital i
 ### How I Work
 
 - Aligning technology initiatives with institutional objectives  
-- Leading multidisciplinary technical teams  
+- Coordinating technical teams and delivery roadmaps  
 - Architecture before tools  
 - Governance embedded in system design  
 - Automation as operational leverage  
@@ -45,7 +45,7 @@ My work centers on leading technical teams and structuring sustainable digital i
 
 ### Vision
 
-Building institutional digital ecosystems that transform structured data into strategic decision-making systems.
+Strengthening public-sector institutions through resilient digital ecosystems and structured decision-support systems.
 
 [⬆ Back to top](#top)
 
@@ -54,27 +54,27 @@ Building institutional digital ecosystems that transform structured data into st
 # 🇧🇷 Português
 <a id="português"></a>
 
-## Liderança em TI e Ecossistemas Digitais no Setor Público
+## Coordenação de Projetos de TI e Ecossistemas Digitais no Setor Público
 
-Líder de TI dedicado ao desenho e evolução de ecossistemas digitais resilientes para instituições públicas.  
-Atuação orientada à governança, liderança de equipes técnicas, arquiteturas escaláveis e sistemas baseados em dados para apoio à decisão.
+Coordenador de Projetos de TI dedicado ao desenho e evolução de ecossistemas digitais resilientes para instituições públicas.  
+Atuação orientada à governança, coordenação de equipes técnicas, arquiteturas escaláveis e sistemas baseados em dados para apoio à decisão.
 
 ### Sobre
 
 Atuo na interseção entre governança de TI no setor público, estratégia institucional e arquitetura backend.
 
-Meu trabalho envolve coordenar equipes técnicas e estruturar infraestruturas digitais sustentáveis que viabilizem:
+Minha função envolve coordenar equipes técnicas multidisciplinares e estruturar infraestruturas digitais sustentáveis que viabilizem:
 
 - Plataformas de dados interoperáveis  
 - Fluxos institucionais automatizados  
-- Sistemas confiáveis, auditáveis e transparentes  
+- Sistemas confiáveis e auditáveis  
 - Ambientes de suporte à tomada de decisão  
 - Modelos de governança digital de longo prazo  
 
 ### Áreas de Atuação
 
 - Governança de TI e Estratégia Digital Institucional  
-- Liderança e Coordenação de Equipes Técnicas  
+- Coordenação de Projetos e Liderança Técnica  
 - Arquitetura Backend e Integração de Sistemas  
 - Plataformas de Dados e Interoperabilidade  
 - Automação e Infraestrutura Digital Pública  
@@ -82,7 +82,7 @@ Meu trabalho envolve coordenar equipes técnicas e estruturar infraestruturas di
 ### Como Trabalho
 
 - Alinhamento das iniciativas tecnológicas aos objetivos institucionais  
-- Liderança de equipes técnicas multidisciplinares  
+- Coordenação de equipes técnicas e entregas estratégicas  
 - Arquitetura antes de ferramentas  
 - Governança incorporada ao desenho dos sistemas  
 - Automação como alavanca operacional  
@@ -90,6 +90,6 @@ Meu trabalho envolve coordenar equipes técnicas e estruturar infraestruturas di
 
 ### Visão
 
-Construir ecossistemas digitais institucionais que transformem dados estruturados em sistemas estratégicos de decisão.
+Fortalecer instituições públicas por meio de ecossistemas digitais resilientes e sistemas estruturados de apoio à decisão.
 
 [⬆ Voltar ao topo](#top)
