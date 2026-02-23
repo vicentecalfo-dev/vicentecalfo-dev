@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # Vicente Calfo
 
 🇺🇸 [English](#-english) | 🇧🇷 [Português](#-português)
@@ -5,6 +7,7 @@
 ---
 
 # 🇺🇸 English
+<a id="english"></a>
 
 ## IT Leadership & Public-Sector Digital Ecosystems
 
@@ -35,9 +38,12 @@ My focus is designing and evolving institutional digital infrastructures that en
 
 Building institutional digital ecosystems that transform data into structured decision-making systems.
 
+[⬆ Back to top](#top)
+
 ---
 
 # 🇧🇷 Português
+<a id="português"></a>
 
 ## Liderança em TI e Ecossistemas Digitais no Setor Público
 
@@ -67,3 +73,5 @@ Meu foco é estruturar e evoluir infraestruturas digitais institucionais que via
 ### Visão
 
 Construir ecossistemas digitais institucionais que transformem dados em sistemas estruturados de decisão estratégica.
+
+[⬆ Voltar ao topo](#top)
