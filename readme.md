@@ -34,6 +34,14 @@ My focus is designing and evolving institutional digital infrastructures that en
 - Automation & Workflow Orchestration  
 - Open Data & Public Digital Infrastructure  
 
+### How I Work
+
+- Architecture before tools  
+- Governance embedded in system design  
+- Automation as operational leverage  
+- Data structured for decision-making  
+- Systems built for longevity and institutional continuity  
+
 ### Vision
 
 Building institutional digital ecosystems that transform data into structured decision-making systems.
@@ -69,6 +77,14 @@ Meu foco é estruturar e evoluir infraestruturas digitais institucionais que via
 - Plataformas de Dados e Interoperabilidade  
 - Automação e Orquestração de Processos  
 - Infraestrutura Digital Pública e Dados Abertos  
+
+### Como Trabalho
+
+- Arquitetura antes de ferramentas  
+- Governança incorporada ao desenho dos sistemas  
+- Automação como alavanca operacional  
+- Dados estruturados para apoiar decisões  
+- Sistemas pensados para longevidade e continuidade institucional  
 
 ### Visão
 
