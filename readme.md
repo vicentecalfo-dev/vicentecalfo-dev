@@ -11,40 +11,41 @@
 
 ## IT Leadership & Public-Sector Digital Ecosystems
 
-IT leader building resilient digital ecosystems for public-sector institutions.  
-Focused on governance, scalable architectures and data-driven systems.
+IT leader designing and evolving resilient digital ecosystems for public-sector institutions.  
+Focused on governance, team leadership, scalable architectures and data-driven decision systems.
 
 ### About
 
-I work at the intersection of public-sector IT governance, backend architecture and strategic data ecosystems.
+I operate at the intersection of public-sector IT governance, institutional strategy and backend architecture.
 
-My focus is designing and evolving institutional digital infrastructures that enable:
+My work centers on leading technical teams and structuring sustainable digital infrastructures that enable:
 
 - Interoperable data platforms  
-- Automation-driven workflows  
-- Reliable and auditable systems  
+- Automation-driven institutional workflows  
+- Reliable, auditable and transparent systems  
 - Decision-support environments  
-- Sustainable digital governance models  
+- Long-term digital governance models  
 
 ### Core Areas
 
-- IT Governance & Digital Strategy  
+- IT Governance & Institutional Digital Strategy  
+- Technical Team Leadership & Delivery Coordination  
 - Backend Architecture & Systems Integration  
 - Data Platforms & Interoperability  
-- Automation & Workflow Orchestration  
-- Open Data & Public Digital Infrastructure  
+- Automation & Public Digital Infrastructure  
 
 ### How I Work
 
+- Aligning technology initiatives with institutional objectives  
+- Leading multidisciplinary technical teams  
 - Architecture before tools  
 - Governance embedded in system design  
 - Automation as operational leverage  
-- Data structured for decision-making  
-- Systems built for longevity and institutional continuity  
+- Systems designed for resilience and continuity  
 
 ### Vision
 
-Building institutional digital ecosystems that transform data into structured decision-making systems.
+Building institutional digital ecosystems that transform structured data into strategic decision-making systems.
 
 [⬆ Back to top](#top)
 
@@ -55,39 +56,40 @@ Building institutional digital ecosystems that transform data into structured de
 
 ## Liderança em TI e Ecossistemas Digitais no Setor Público
 
-Líder de TI focado na construção de ecossistemas digitais resilientes para instituições públicas.  
-Atuação orientada à governança, arquiteturas escaláveis e sistemas baseados em dados.
+Líder de TI dedicado ao desenho e evolução de ecossistemas digitais resilientes para instituições públicas.  
+Atuação orientada à governança, liderança de equipes técnicas, arquiteturas escaláveis e sistemas baseados em dados para apoio à decisão.
 
 ### Sobre
 
-Atuo na interseção entre governança de TI no setor público, arquitetura backend e ecossistemas estratégicos de dados.
+Atuo na interseção entre governança de TI no setor público, estratégia institucional e arquitetura backend.
 
-Meu foco é estruturar e evoluir infraestruturas digitais institucionais que viabilizem:
+Meu trabalho envolve coordenar equipes técnicas e estruturar infraestruturas digitais sustentáveis que viabilizem:
 
 - Plataformas de dados interoperáveis  
-- Fluxos automatizados  
-- Sistemas confiáveis e auditáveis  
-- Ambientes de apoio à tomada de decisão  
-- Modelos sustentáveis de governança digital  
+- Fluxos institucionais automatizados  
+- Sistemas confiáveis, auditáveis e transparentes  
+- Ambientes de suporte à tomada de decisão  
+- Modelos de governança digital de longo prazo  
 
 ### Áreas de Atuação
 
-- Governança de TI e Estratégia Digital  
+- Governança de TI e Estratégia Digital Institucional  
+- Liderança e Coordenação de Equipes Técnicas  
 - Arquitetura Backend e Integração de Sistemas  
 - Plataformas de Dados e Interoperabilidade  
-- Automação e Orquestração de Processos  
-- Infraestrutura Digital Pública e Dados Abertos  
+- Automação e Infraestrutura Digital Pública  
 
 ### Como Trabalho
 
+- Alinhamento das iniciativas tecnológicas aos objetivos institucionais  
+- Liderança de equipes técnicas multidisciplinares  
 - Arquitetura antes de ferramentas  
 - Governança incorporada ao desenho dos sistemas  
 - Automação como alavanca operacional  
-- Dados estruturados para apoiar decisões  
-- Sistemas pensados para longevidade e continuidade institucional  
+- Sistemas projetados para resiliência e continuidade  
 
 ### Visão
 
-Construir ecossistemas digitais institucionais que transformem dados em sistemas estruturados de decisão estratégica.
+Construir ecossistemas digitais institucionais que transformem dados estruturados em sistemas estratégicos de decisão.
 
 [⬆ Voltar ao topo](#top)
