@@ -18,6 +18,8 @@ Dedicated to governance, technical team coordination, scalable architectures and
 
 I work at the intersection of public-sector IT governance, institutional strategy and backend architecture.
 
+My experience spans strategic government domains including public health systems, biodiversity conservation platforms and genomic research initiatives.
+
 My role involves coordinating multidisciplinary technical teams and structuring sustainable digital infrastructures that enable:
 
 - Interoperable data platforms  
@@ -25,6 +27,12 @@ My role involves coordinating multidisciplinary technical teams and structuring 
 - Reliable and auditable systems  
 - Decision-support environments  
 - Long-term digital governance models  
+
+### Sector Experience
+
+- **Public Health Systems** – Digital infrastructure and data integration supporting health policy and operational decision-making.  
+- **Biodiversity & Conservation** – Platforms and data ecosystems for risk assessment, environmental intelligence and conservation strategy.  
+- **Genomics & Scientific Research** – Infrastructure and data workflows supporting genomic analysis and research environments.  
 
 ### Core Areas
 
@@ -63,6 +71,8 @@ Atuação orientada à governança, coordenação de equipes técnicas, arquitet
 
 Atuo na interseção entre governança de TI no setor público, estratégia institucional e arquitetura backend.
 
+Minha experiência abrange áreas estratégicas do governo, incluindo sistemas de saúde pública, plataformas de conservação da biodiversidade e iniciativas voltadas à pesquisa genômica.
+
 Minha função envolve coordenar equipes técnicas multidisciplinares e estruturar infraestruturas digitais sustentáveis que viabilizem:
 
 - Plataformas de dados interoperáveis  
@@ -70,6 +80,12 @@ Minha função envolve coordenar equipes técnicas multidisciplinares e estrutur
 - Sistemas confiáveis e auditáveis  
 - Ambientes de suporte à tomada de decisão  
 - Modelos de governança digital de longo prazo  
+
+### Experiência Setorial
+
+- **Sistemas de Saúde Pública** – Infraestruturas digitais e integração de dados para apoio à formulação de políticas e gestão operacional.  
+- **Biodiversidade e Conservação** – Plataformas e ecossistemas de dados para avaliação de risco, inteligência ambiental e planejamento estratégico.  
+- **Genômica e Pesquisa Científica** – Infraestrutura computacional e fluxos de dados para ambientes de análise e pesquisa.  
 
 ### Áreas de Atuação
 
