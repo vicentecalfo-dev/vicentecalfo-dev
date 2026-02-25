@@ -34,14 +34,6 @@ My role involves coordinating multidisciplinary technical teams and structuring 
 - **Biodiversity & Conservation** – Platforms and data ecosystems for risk assessment, environmental intelligence and conservation strategy.  
 - **Genomics & Scientific Research** – Infrastructure and data workflows supporting genomic analysis and research environments.  
 
-### Selected Projects
-
-- **[govbr-tw-react](https://github.com/vicentecalfo-dev/govbr-tw-react)**  
-  Public-sector aligned React component library based on GovBR design principles, supporting standardized digital service interfaces.
-
-- **[SIMEO](https://github.com/vicentecalfo-dev/SIMEO)**  
-  Institutional system architecture focused on environmental intelligence, structured data management and strategic monitoring workflows.
-
 ### Core Areas
 
 - IT Governance & Institutional Digital Strategy  
@@ -95,13 +87,6 @@ Minha função envolve coordenar equipes técnicas multidisciplinares e estrutur
 - **Biodiversidade e Conservação** – Plataformas e ecossistemas de dados para avaliação de risco, inteligência ambiental e planejamento estratégico.  
 - **Genômica e Pesquisa Científica** – Infraestrutura computacional e fluxos de dados para ambientes de análise e pesquisa.  
 
-### Projetos em Destaque
-
-- **[govbr-tw-react](https://github.com/vicentecalfo-dev/govbr-tw-react)**  
-  Biblioteca de componentes React alinhada ao padrão GovBR, promovendo padronização e consistência em interfaces digitais públicas.
-
-- **[SIMEO](https://github.com/vicentecalfo-dev/SIMEO)**  
-  Arquitetura de sistema institucional voltada à inteligência ambiental, gestão estruturada de dados e monitoramento estratégico.
 
 ### Áreas de Atuação
 
